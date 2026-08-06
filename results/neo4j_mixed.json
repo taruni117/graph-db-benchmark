@@ -1,0 +1,11 @@
+{
+    "database": "Neo4j AuraDB",
+    "workload": "Mixed",
+    "read_write_ratio": "80/20",
+    "concurrency": 10,
+    "total_queries": 1000,
+    "time_seconds": 17.09,
+    "qps": 58.52,
+    "average_latency_ms": 169.89,
+    "p95_latency_ms": 370.41
+}

@@ -1,0 +1,11 @@
+{
+    "database": "CognoDB",
+    "workload": "Mixed",
+    "read_write_ratio": "80/20",
+    "concurrency": 10,
+    "total_queries": 1000,
+    "time_seconds": 1.07,
+    "qps": 934.2,
+    "average_latency_ms": 10.53,
+    "p95_latency_ms": 10.9
+}
