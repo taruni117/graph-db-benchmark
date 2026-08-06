@@ -4,8 +4,8 @@
     "read_write_ratio": "80/20",
     "concurrency": 10,
     "total_queries": 1000,
-    "time_seconds": 17.09,
-    "qps": 58.52,
-    "average_latency_ms": 169.89,
-    "p95_latency_ms": 370.41
+    "time_seconds": 7.34,
+    "qps": 136.25,
+    "average_latency_ms": 73.05,
+    "p95_latency_ms": 91.34
 }
